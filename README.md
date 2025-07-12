@@ -57,11 +57,12 @@ GROQ_API_KEY=your_groq_api_key_here
 WEATHER_API_KEY=your_weatherapi_key_here
 ```
 5. **Run the Weather server**
+
 ```bash
 python weather_server.py
 ```
-
 6.**Run the main file**
+
 ```
 python main.py
 ```
