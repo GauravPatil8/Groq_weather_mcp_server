@@ -61,7 +61,7 @@ WEATHER_API_KEY=your_weatherapi_key_here
 ```bash
 python weather_server.py
 ```
-6.**Run the main file**
+6. **Run the main file**
 
 ```
 python main.py
